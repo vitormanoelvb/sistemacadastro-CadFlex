@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="cadflex.png" width="90%" />
+</div>
+
 <h1 align="center">🛒 CadFlex – Sistema de Cadastro de Produtos 📦</h1>
 
 <p align="center">
